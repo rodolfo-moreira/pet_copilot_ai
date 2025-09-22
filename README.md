@@ -11,10 +11,10 @@ Building the Petshop Copilot AI | LangChain Tutorial with FAISS, RAG & ReAct + S
 
 Episodes:
 
-1 - Intro: Building the Petshop Copilot AI
-2 - Creating a FAISS Vector Store
-3 - Building a RAG Agent with LangChain and Using ReAct to Orchestrate Agents
-4 - Building the ChatGPT-Style App with Streamlit
+1 - Intro: Building the Petshop Copilot AI <br/>
+2 - Creating a FAISS Vector Store <br/>
+3 - Building a RAG Agent with LangChain and Using ReAct to Orchestrate Agents <br/>
+4 - Building the ChatGPT-Style App with Streamlit <br/>
 
 ## Overview
 This repository contains the full code for **Building the Petshop Copilot AI**,  
